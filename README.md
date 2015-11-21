@@ -3,6 +3,8 @@ This project contains code and instructions to use a
 [SN76489 sound chip](https://en.wikipedia.org/wiki/Texas_Instruments_SN76489)
 as a MIDI controlled synth, driven by a Teensy 2.0 microcontroller.
 
+You can see this in action in the [YouTube demo](https://www.youtube.com/watch?v=xyijcK57knk).
+
 ## Schematic
 ![Schematic](https://raw.githubusercontent.com/cdodd/teensy-sn76489-midi-synth/master/schematic.png)
 The schematic is also available in the Fritzing file `schematic.fzz`.

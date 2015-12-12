@@ -42,8 +42,9 @@ The schematic is also available in the Fritzing file `schematic.fzz`.
 
 ### Channel 4
 * Controls the noise generator
-* Note velocity is linked to the 16 level attenuation of the 4th square tone
-* The brightness of LED 4 is linked to the attenuation level of square tone 4
+* Note velocity is linked to the 16 level attenuation of the noise generator
+* The brightness of LED 4 is linked to the attenuation level of the noise
+  generator
 * MIDI CC 1 (mod wheel) on this channel controls the frequency of square tone
   3, which is used by notes `F4` and `C5` to control the noise shift rate
 
